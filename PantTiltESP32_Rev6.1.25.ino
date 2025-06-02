@@ -1,4 +1,8 @@
 /*  
+  Peter Fendikevich - 6/1/2025
+  Pan Tilt control from Web GUI with an ESP32 and L298N PWM motor drive
+  
+  Modified from:
   Rui Santos & Sara Santos - Random Nerd Tutorials
   https://RandomNerdTutorials.com/esp32-wi-fi-car-robot-arduino/
   Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files.
